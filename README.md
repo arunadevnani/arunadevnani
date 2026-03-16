@@ -1,5 +1,12 @@
 ## Hi there 👋 I'm Aruna Devnani
 
+### 🎓 Education
+
+**Bachelor of Science (B.Sc.)**
+Dharwad University — 2011
+Graduated with **83%**
+
+
 Aspiring **Data Scientist and Generative AI enthusiast** with hands-on experience in **Python, SQL, Machine Learning, NLP, and Data Visualization**. I enjoy building data-driven solutions and AI applications that solve real-world problems.
 
 🔬 Currently working as a **GenAI / Data Science Intern**, gaining practical experience in **Machine Learning, NLP, and Generative AI applications**.
