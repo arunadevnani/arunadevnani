@@ -2,7 +2,7 @@
 
 ### 🎓 Education
 
-**Bachelor of Science (B.Sc.)**
+**Bachelor of Computer Application (BCA)**
 Dharwad University — 2011
 Graduated with **83%**
 
